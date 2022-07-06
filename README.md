@@ -1,12 +1,11 @@
 
-
-<h1 align="center">
-<img alt="Drink Water" title="Drink Water App" src="https://i.pinimg.com/originals/c4/2a/82/c42a827833350f3754147691f0683cbc.gif" />
-</h1>
-
 <h3 align="center">
 Bem Vindo a meu repositório de estudo de animações com svgs 
  </h3>
+ 
+<h1 align="center">
+<img alt="Drink Water" title="Drink Water App" src="https://i.pinimg.com/originals/c4/2a/82/c42a827833350f3754147691f0683cbc.gif" />
+</h1>
  
 
 <p align="center">
